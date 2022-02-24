@@ -32,7 +32,7 @@ Absolutely Bonkers Plan to give mars an artificial magnetosphere- [🌐 website]
 
 &nbsp;
 
-- 🔭 I’m currently working on some neural network optimisation.
+- 🔭 I’m currently studying M.Sc. Astronomy at IIT Indore.
 - 🌱 I’m currently learning Large Scale Infra Designing.
-- 👯 I’m looking to collaborate on any cool Deep Learning Research related to Computer Vision.
-- ⚡ Fun fact: I can eat two burgers at the same time.
+- 👯 I’m looking to work on anything related to planetary sciences.
+- ⚡ 
