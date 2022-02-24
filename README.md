@@ -2,7 +2,7 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi!
 
-My name is Keshav, I'm a masters student living in India. I'm an astronomy student at IIT Indore. I am interested in Mars, Jovian Moons and in planetary sciences in general. Besides researching and coding, I also love writing blogs, papermodeling, sharing random unproductive memes, 
+My name is Keshav, I'm a masters student living in India. I'm an astronomy student at IIT Indore. I am interested in Mars, Jovian Moons and in planetary sciences in general. Besides researching and coding, I also love writing blogs, papermodeling and sharing random unproductive memes.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/mars-orbiter/keshav-aggarwal/main/image.svg" />
 
