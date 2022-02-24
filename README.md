@@ -7,11 +7,11 @@ My name is Rishab, I’m a Data scientist living in India. I’m a Pythonista an
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/mars-orbiter/keshav-aggarwal/main/image.svg" />
 
-[![Github](https://img.shields.io/badge/-Github-330c83?style=flat&logo=Github&logoColor=white)](https://github.com/rishab-sharma)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-330c83?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishab-sharmaddn)
-[![Twitter](https://img.shields.io/badge/-Twitter-330c83?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kraken_2309)
-[![Instagram](https://img.shields.io/badge/-Instagram-330c83?style=flat&labelColor=330c83&logo=instagram&logoColor=white)](https://www.instagram.com/being_the_pahadi/)
-[![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:rishabsharmaddn@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-330c83?style=flat&logo=Github&logoColor=white)](https://github.com/mars-orbiter)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-330c83?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-aggarwal/)
+[![Twitter](https://img.shields.io/badge/-Twitter-330c83?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Keshav__Dev)
+[![Instagram](https://img.shields.io/badge/-Instagram-330c83?style=flat&labelColor=330c83&logo=instagram&logoColor=white)](https://www.instagram.com/dev____1/)
+[![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:msc2103121014@iiti.ac.in)
 
 
 
