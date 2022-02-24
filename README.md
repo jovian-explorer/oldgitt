@@ -2,8 +2,7 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola!
 
-
-My name is Rishab, I’m a Data scientist living in India. I’m a Pythonista and a visual computing researcher. Besides researching and coding, I also love writing blogs, trekking and sharing random unproductive memes 😅
+My name is Keshav, I'm a masters student living in India. I'm an astronomy student at IIT Indore. I am interested in Mars, Jovian Moons and in planetary sciences in general. Besides researching and coding, I also love writing blogs, papermodeling, sharing random unproductive memes, 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/mars-orbiter/keshav-aggarwal/main/image.svg" />
 
@@ -19,14 +18,18 @@ My name is Rishab, I’m a Data scientist living in India. I’m a Pythonista an
 
 To know more about me:
 
-* Go to my personal [🌐 website](http://www.rishab.co)
+* Go to my personal [🌐 website](http://astroclub.iiti.ac.in/profile_KeshavAggarwal.html)
 
 &nbsp;
 
-You can also find me on:
+You can read my blogs on :
 
+Misconceptions in Cosmology
+[🌐 website](https://sites.google.com/view/sarcblogs/blog-1?authuser=1)
 
-[![Medium](https://img.shields.io/badge/-Medium-330c83?style=flat&logo=Medium&logoColor=white)](https://medium.com/@kraken2309)
+Absolutely Bonkers Plan to give mars an artificial magnetosphere.
+[🌐 website](https://sites.google.com/view/sarcblogs/blog-2)
+
 
 
 &nbsp;
