@@ -1,6 +1,6 @@
 <!--img  alt="banner" src="https://github.com/montjoile/montjoile/blob/main/banner.jpg" />-->
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi!
 
 My name is Keshav, I'm a masters student living in India. I'm an astronomy student at IIT Indore. I am interested in Mars, Jovian Moons and in planetary sciences in general. Besides researching and coding, I also love writing blogs, papermodeling, sharing random unproductive memes, 
 
@@ -35,4 +35,3 @@ Absolutely Bonkers Plan to give mars an artificial magnetosphere- [🌐 website]
 - 🔭 I’m currently studying M.Sc. Astronomy at IIT Indore.
 - 🌱 I’m currently learning Large Scale Infra Designing.
 - 👯 I’m looking to work on anything related to planetary sciences.
-- ⚡ 
