@@ -12,14 +12,6 @@ My name is Keshav, I'm a masters student living in India. I'm an astronomy stude
 [![Instagram](https://img.shields.io/badge/-Instagram-330c83?style=flat&labelColor=330c83&logo=instagram&logoColor=white)](https://www.instagram.com/dev____1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:msc2103121014@iiti.ac.in)
 
-
-
-&nbsp;
-
-To know more about me:
-
-* Go to my profile [🌐 website](http://astroclub.iiti.ac.in/profile_KeshavAggarwal.html)
-
 &nbsp;
 
 You can read my blogs on :
@@ -27,7 +19,6 @@ You can read my blogs on :
 Misconceptions in Cosmology- [🌐 website](https://sites.google.com/view/sarcblogs/blog-1?authuser=1)
 
 Absolutely Bonkers Plan to give mars an artificial magnetosphere- [🌐 website](https://sites.google.com/view/sarcblogs/blog-2)
-
 
 
 &nbsp;
