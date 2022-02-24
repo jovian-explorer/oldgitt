@@ -18,17 +18,15 @@ My name is Keshav, I'm a masters student living in India. I'm an astronomy stude
 
 To know more about me:
 
-* Go to my personal [🌐 website](http://astroclub.iiti.ac.in/profile_KeshavAggarwal.html)
+* Go to my profile [🌐 website](http://astroclub.iiti.ac.in/profile_KeshavAggarwal.html)
 
 &nbsp;
 
 You can read my blogs on :
 
-Misconceptions in Cosmology
-[🌐 website](https://sites.google.com/view/sarcblogs/blog-1?authuser=1)
+Misconceptions in Cosmology- [🌐 website](https://sites.google.com/view/sarcblogs/blog-1?authuser=1)
 
-Absolutely Bonkers Plan to give mars an artificial magnetosphere.
-[🌐 website](https://sites.google.com/view/sarcblogs/blog-2)
+Absolutely Bonkers Plan to give mars an artificial magnetosphere- [🌐 website](https://sites.google.com/view/sarcblogs/blog-2)
 
 
 
