@@ -13,16 +13,14 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:msc2103121014@iiti.ac.in)
 
 &nbsp;
-
 You can read my blogs on :
 
 Misconceptions in Cosmology- [🌐 website](https://sites.google.com/view/sarcblogs/blog-1?authuser=1)
 
 Absolutely Bonkers Plan to give mars an artificial magnetosphere- [🌐 website](https://sites.google.com/view/sarcblogs/blog-2)
 
-
 &nbsp;
 
 - 🔭 I’m currently studying M.Sc. Astronomy at IIT Indore.
-- 🌱 I’m currently learning Large Scale Infra Designing.
+- 🌱 I’m currently learning working as an intern at Armstron Space.
 - 👯 I’m looking to work on anything related to planetary sciences.
