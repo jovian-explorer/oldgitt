@@ -21,7 +21,9 @@ Absolutely Bonkers Plan to give mars an artificial magnetosphere- [🌐 website]
 &nbsp;
 
 - 🔭 I’m currently studying M.Sc. Astronomy at IIT Indore.
-- 🌱 I’m currently working as an Intern Astrophysicist(R&D) at Armstrong Space, Australia.
-- 👯 I’m looking to work on anything related to planetary sciences.
-- 🪐 Currently I am working on radio observations of the solar corona using Mars Orbiter Mission (Mangalyaan).
+- 🌟 Working on radio observations of the solar corona using Mars Orbiter Mission (Mangalyaan).
+- 🛰️ Working as an Intern Astrophysicist(R&D) at Armstrong Space, Australia.
+- 📡 Working on exoplanetary atmospheres and JWST.
+- 🪐 Working at Ahmedabad Space Science Gsllery as a freelancer as well.
+- 🚀 Looking to work on anything related to planetary sciences.
 - :cake: for you!!
