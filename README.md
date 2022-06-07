@@ -1,6 +1,6 @@
 <!--img  alt="banner" src="https://github.com/montjoile/montjoile/blob/main/banner.jpg" />-->
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px">
 Hi!
 My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Mars, Jovian Moons and Exoplanets. Besides researching and coding, I also love writing blogs, papermodeling and sharing random unproductive memes.
 
