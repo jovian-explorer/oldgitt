@@ -11,9 +11,9 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 
 &nbsp;You can read my blogs on :
 
-Misconceptions in Cosmology- [🌐 website](https://sites.google.com/view/sarcblogs/blog-1?authuser=1)
+[Misconceptions in Cosmology](https://sites.google.com/view/sarcblogs/blog-1?authuser=1)
 
-Absolutely Bonkers Plan to give mars an artificial magnetosphere- [🌐 website](https://sites.google.com/view/sarcblogs/blog-2)
+[Absolutely Bonkers Plan to give mars an artificial magnetosphere](https://sites.google.com/view/sarcblogs/blog-2)
 
 &nbsp;
 
