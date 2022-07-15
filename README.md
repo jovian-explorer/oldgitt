@@ -23,7 +23,8 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 - 📡 Working on exoplanetary atmospheres and JWST. 
 - 🪐 Looking to work on anything related to planetary sciences.
 - :cake: for you!!
- 
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p align="center">
   <a href="https://github.com/jovian-explorer">
   <img src="https://github-readme-stats.vercel.app/api?username=jovian-explorer&theme=radical&include_all_commits=true&show_icons=true&hide_border=true&bg_color=ffffff00&count_private=true&theme=gotham"/></a></div>
