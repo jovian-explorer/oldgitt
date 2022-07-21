@@ -5,7 +5,6 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 
 [![Github](https://img.shields.io/badge/-Github-330c83?style=flat&logo=Github&logoColor=white)](https://github.com/jovian-explorer)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-330c83?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-aggarwal/)
-[![Twitter](https://img.shields.io/badge/-Twitter-330c83?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jovian_explorer)
 [![Instagram](https://img.shields.io/badge/-Instagram-330c83?style=flat&labelColor=330c83&logo=instagram&logoColor=white)](https://www.instagram.com/jovian_explorer/)
 [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:msc2103121014@iiti.ac.in)
 [![YouTube](https://img.shields.io/badge/-YouTube-330c83?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC2-J-uMMSk-r69C-kBw-haA)
