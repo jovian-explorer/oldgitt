@@ -70,7 +70,7 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 <p align="center">
   <a href="https://github.com/jovian-explorer">
   <img src="https://github-readme-stats.vercel.app/api?username=jovian-explorer&include_all_commits=true&show_icons=true&hide_border=true&bg_color=ffffff00&count_private=true&theme=gotham&card_width=250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovian-explorer&layout=compact&hide_title=1&card_width=250&bg_color=ffffff00&theme=gotham&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovian-explorer&layout=compact&hide_title=1&card_width=250&bg_color=ffffff00&count_private=true&theme=gotham&hide_border=true"/>
 </p>
 
 <p align="center">
