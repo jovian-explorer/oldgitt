@@ -68,6 +68,10 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 <a href="[GitLab](https://gitlab.com/jovian-explorer)" target="_blank" rel="noreferrer">
 <img src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="git" width="50" height="40"/>
 </a>
+
+<a href="[Kaggle](hhttps://www.kaggle.com/)" target="_blank" rel="noreferrer">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="git" width="50" height="40"/>
+</a>
 </p>
 </h3>
   
