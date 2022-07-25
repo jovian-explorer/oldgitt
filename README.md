@@ -66,11 +66,15 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 </a>
 
 <a href="[GitLab](https://gitlab.com/jovian-explorer)" target="_blank" rel="noreferrer">
-<img src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="git" width="50" height="40"/>
+<img src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="git" width="40" height="40"/>
 </a>
 
-<a href="[Kaggle](hhttps://www.kaggle.com/)" target="_blank" rel="noreferrer">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="git" width="50" height="40"/>
+<a href="[Kaggle](https://www.kaggle.com/)" target="_blank" rel="noreferrer">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="git" width="40" height="40"/>
+</a>
+
+<a href="[Tensorflow](https://www.tensorflow.org/)" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/jovian-explorer/jovian-explorer/main/Tensorflow.png" alt="git" width="40" height="40"/>
 </a>
 </p>
 </h3>
