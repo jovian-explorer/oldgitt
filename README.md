@@ -76,6 +76,11 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 <a href="[Tensorflow](https://www.tensorflow.org/)" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/jovian-explorer/jovian-explorer/main/Tensorflow.png" alt="git" width="40" height="40"/>
 </a>
+
+<a href="[pytorch](https://pytorch.org/)" target="_blank" rel="noreferrer">
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="git" width="40" height="40"/>
+</a>
+
 </p>
 </h3>
   
