@@ -84,6 +84,7 @@ Conferences and workshops attended:
 - Gaia Symposium: DR3 And Beyond by Indian Institute of Astrophysics, Bangalore
 - Solar Physics High Energy Research (SPHERE) workshop 2022 by University of Colorado, Boulder.
 - Exoplanet Research Workshop by MIT, Cambridge
+- 33rd IUPAP Conference on Computational Physics by University of Texas.
 
 <h3 align="left">
 Talks and presentations:
