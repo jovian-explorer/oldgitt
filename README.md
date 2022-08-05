@@ -17,12 +17,17 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 
 &nbsp;
 
-- 🔭 I’m currently studying M.Sc. Astronomy at IIT Indore.
-- 🌟 Working on radio observations of the solar corona using Mars Orbiter Mission (Mangalyaan).
-- 🛰️ Working as an Astrophysicist(R&D) at Armstrong Space, Australia.
-- 📡 Working on exoplanetary atmospheres and JWST. 
-- 🪐 Looking to work on anything related to planetary sciences.
-- :cake: for you!!
+🔭 I’m currently studying M.Sc. Astronomy at IIT Indore.
+
+🌟 Working on radio observations of the solar corona using Mars Orbiter Mission (Mangalyaan).
+
+🛰️ Working as an Astrophysicist(R&D) at Armstrong Space, Australia.
+
+📡 Working on exoplanetary atmospheres and JWST. 
+
+🪐 Looking to work on anything related to planetary sciences.
+
+🍰 for you!!
 
 
 
