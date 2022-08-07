@@ -108,6 +108,9 @@ Certifications & Training:
 - The Science of the Solar System (94.45%, Coursera: Caltech), 
 - Archaeoastronomy (91.20%, Coursera: Politecnico di Milano)
 - Astronomy: Exploring Time and Space (96.10%, Coursera: The University of Arizona)
+- Deep Learning with PyTorch : Neural Style Transfer (100%, Coursera: Guided Project)
+- Getting Started with Kaggle (100%, Coursera: Guided Project)
+- Deep Learning with PyTorch : Image Segmentation (80%, Coursera: Guided Project)
 
 
 <h3 align="left">Technical Skills:</h3> Windows, Linux, Github, LaTeX
