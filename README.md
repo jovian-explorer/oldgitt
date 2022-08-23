@@ -81,6 +81,10 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="git" width="40" height="40"/>
 </a>
 
+<a href="[petitRADTRANS](https://petitradtrans.readthedocs.io/en/latest/index.html)" target="_blank" rel="noreferrer">
+<img src="https://petitradtrans.readthedocs.io/en/latest/_static/petitlogo.png" alt="git" width="55" height="40"/>
+</a>
+
 </p>
 </h3>
   
