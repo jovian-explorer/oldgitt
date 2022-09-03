@@ -29,7 +29,7 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 
 ### Checkout my latest works: :bookmark_tabs:
 
-- [Identification of carbon dioxide in an exoplanet atmosphere (Nature)](https://arxiv.org/abs/2208.11692)
+- [Identification of carbon dioxide in an exoplanet atmosphere (Nature)](https://doi.org/10.1038/s41586-022-05269-w)
 
 
 <h3 align="left">Languages and Tools:
