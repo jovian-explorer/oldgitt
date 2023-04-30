@@ -29,9 +29,9 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 
 ### Checkout my latest works: :bookmark_tabs:
 
-- [Identification of carbon dioxide in an exoplanet atmosphere (Nature)](https://doi.org/10.1038/s41586-022-05269-w)
-- [Early Release Science of the exoplanet WASP-39b with JWST NIRSpec PRISM (Nature)](https://www.nature.com/articles/s41586-022-05677-y)
-- [Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H (Nature)](https://www.nature.com/articles/s41586-022-05591-3)
+- [ResearchGate](https://https://www.researchgate.net/profile/Keshav-Aggarwal-4)
+- [Google Scholar](https://www.nature.com/articles/s41586-022-05677-y)
+- [ORC-ID](https://scholar.google.com/citations?user=KO8MtmEAAAAJ&hl=en)
 
 <h3 align="left">Languages and Tools:
 <p align="center">
