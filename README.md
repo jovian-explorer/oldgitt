@@ -8,8 +8,6 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 [![Instagram](https://img.shields.io/badge/-Instagram-330c83?style=flat&labelColor=330c83&logo=instagram&logoColor=white)](https://www.instagram.com/jovian_explorer/)
 [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:msc2103121014@iiti.ac.in)
 [![YouTube](https://img.shields.io/badge/-YouTube-330c83?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC2-J-uMMSk-r69C-kBw-haA)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://jovian-explorer.medium.com/)
-
 &nbsp;
 
 ### You can read my blogs on:
@@ -18,14 +16,16 @@ My name is Keshav. I'm an astronomy student at IIT Indore. I am interested in Ma
 
 [Absolutely Bonkers Plan to give mars an artificial magnetosphere](https://sites.google.com/view/sarcblogs/blog-2)
 
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://jovian-explorer.medium.com/)
+
 &nbsp;
 ### About me:
 
-- 🔭 I’m currently studying M.Sc. Astronomy at IIT Indore.
+- 🔭 I’m currently doing a Ph.D. in Astronomy at IIT Indore.
 - 🌟 Working on radio observations of the solar corona using Mars Orbiter Mission (Mangalyaan).
+- 🪐 Working on radio observations of the Venusian atmosphere using the Japanese Akatsuki Mission.
 - 🛰 Working as an Astrophysicist(R&D) at Armstrong Space, Australia.
 - 📡 Working on exoplanetary atmospheres and JWST as a part of the ERS program ([#1366](https://www.stsci.edu/jwst/science-execution/approved-programs/dd-ers/program-1366)).
-- 🪐 Looking to work on anything related to planetary sciences.
 - 🍰 for you!!
 
 ### Checkout my latest works: :bookmark_tabs:
